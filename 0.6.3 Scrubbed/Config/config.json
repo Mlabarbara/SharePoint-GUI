@@ -1,0 +1,31 @@
+{
+  "Templates": {
+    "AdditionalShareLink": "AdditionalEmailResendLinkTemplate",
+    "ClientWelcome": "ClientWelcomeTemplate",
+    "ConvertedClient": "ConvertedFullClientTemplate",
+    "FullClientPayments": "FullClientPaymentsNotification",
+    "FullClientTeam": "FullClientTeamNotification",
+    "GeneralClientTeam": "GeneralClientTeamNotification",
+    "GeneralClient": "GeneralContactClientTemplate",
+    "NewClient": "NewFullClientTemplate",
+    "ResearchCLient": "ResearchClientClientTemplate",
+    "ResearchClientPayments": "ResearchClientPaymentsNotification",
+    "ResearchClientTeam": "ResearchClientTeamNotification",
+    "ResendShareLink": "ResendClientShareLinkTemplate",
+    "SalesNotification": "SalesNotificationTemplate",
+    "SalesResendNotification": "SalesResendNotificationTemplate",
+    "RedwoodClient": "\\Redwood\\RedwoodClientWelcomeTemplate",
+    "RedwoodTeam": "\\Redwood\\RedwoodTeamTemplate"
+  },
+  "AdditionalRecipients": [
+    "payments@sequoiataxrelief.com",
+    "teamsales@sequoiataxrelief.com"
+  ],
+  "CompanyUrls": {
+    "Logo": "https://sequoiataxrelief.com/wp-content/uploads/2017/11/cropped-LOGO.png",
+    "Support": "https://sequoiataxrelief.com/contact-us/",
+    "PrivacyPolicy": "https://sequoiataxrelief.com/privacy-policy/"
+  },
+  "SharePointBaseUrl": "https://sequoiataxrelief.sharepoint.com/sites/secureclientupload",
+  "RedwoodSharePointUrl": "https://sequoiataxrelief.sharepoint.com/sites/RedwoodTaxSvcs"
+}
